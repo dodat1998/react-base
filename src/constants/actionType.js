@@ -1,0 +1,9 @@
+export const FETCH_PRODUCT = 'GET_API';
+
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+
+export const FETCH_PRODUCT_BY_ID = 'FETCH_PRODUCT_BY_ID';
